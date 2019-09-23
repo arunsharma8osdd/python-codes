@@ -9,6 +9,7 @@
 # Author: Dr. Arun Sharma, Senior Information Scientist, DBT Apex, ICGEB, New Delhi, India
 #
 # Date: 23-09-2019
+# Note: This script has been run and tested on Python 2.7.15+ version
 #########################################################################
 
 
