@@ -19,7 +19,7 @@ getcontext().prec = 4
 dog_breeds = {'Dingo': 0, 'Dhole': 0, 'Pug': 0, 'Boxer': 0}## Actual Class Labels 
 dog_breeds_all = {'Dingo': 0, 'Dhole': 0, 'Pug': 0, 'Boxer': 0}## Actual Class Labels
 
-f = open("result_test.csv", "r")## Deep Learning Studio's Infered results file name
+f = open("result.csv", "r")## Deep Learning Studio's Infered results file name
 for x in f:
   y = x.rstrip('\r\n')
   z = y.split(',')
